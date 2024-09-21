@@ -1,0 +1,1 @@
+203165374	/var/hyperledger/production/ledgersData/chains/chains/production-channel

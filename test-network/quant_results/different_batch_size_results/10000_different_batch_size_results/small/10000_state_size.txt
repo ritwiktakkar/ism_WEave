@@ -1,0 +1,1 @@
+14784173	/var/hyperledger/production/ledgersData/stateLeveldb

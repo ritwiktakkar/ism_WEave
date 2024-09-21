@@ -1,0 +1,1 @@
+3835711	/var/hyperledger/production/ledgersData/stateLeveldb
