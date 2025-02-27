@@ -156,10 +156,25 @@ Consequently: the chaincode(s), the ledger, and ultimately, the trace, are uniqu
 
 
 <!-- CITATION -->
+## Reference
+R. Takkar, K. Birman, and H. O. Gao, “Enhancing transparency in buyer-driven commodity chains for complex products: a blockchain-based traceability framework demonstrated through an apparel supply chain simulation,” Procedia Computer Science, vol. 253, pp. 2703–2712, Feb. 2025, [doi: 10.1016/j.procs.2025.01.330](https://doi.org/10.1016/j.procs.2025.01.330)
+
 ## Citation
-
-Incoming...
-
+```bibtex
+@article{TAKKAR20252703,
+title = {Enhancing transparency in buyer-driven commodity chains for complex products: a blockchain-based traceability framework demonstrated through an apparel supply chain simulation},
+journal = {Procedia Computer Science},
+volume = {253},
+pages = {2703-2712},
+year = {2025},
+note = {6th International Conference on Industry 4.0 and Smart Manufacturing},
+issn = {1877-0509},
+doi = {https://doi.org/10.1016/j.procs.2025.01.330},
+url = {https://www.sciencedirect.com/science/article/pii/S1877050925003382},
+author = {Ritwik Takkar and Ken Birman and H. Oliver Gao},
+keywords = {Blockchain, Traceability, Supply Chain Management, Manufacturing},
+}
+```
 <!-- CONTRIBUTING -->
 ## Contributing
 
