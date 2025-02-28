@@ -154,6 +154,8 @@ Consequently: the chaincode(s), the ledger, and ultimately, the trace, are uniqu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Video tutorial
+[![Youtube link to tutorial](https://img.youtube.com/vi/90jYdKrk3qg/0.jpg)](https://www.youtube.com/watch?v=90jYdKrk3qg)
 
 <!-- CITATION -->
 ## Reference
